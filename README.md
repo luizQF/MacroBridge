@@ -161,9 +161,8 @@ MIT License - Sinta-se livre para usar e modificar.
 ## 📞 Suporte
 
 - **Issues**: Abra uma issue no GitHub
-- **Discord**: [Seu link do Discord]
-- **Email**: [seu-email@exemplo.com]
+- **Email**: [luizfqueiroz1811@gmail.com]
 
 ---
 
-**Desenvolvido com ❤️ por [Seu Nome]**
+**Desenvolvido com ❤️ por [Luiz Fernandes]**
